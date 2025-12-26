@@ -1,3 +1,32 @@
+<!--
+🔍 SEO Keywords: AI Engineer, Agentic AI, RAG Systems, LLM Engineering, Muhammad Anas, Machine Learning Engineer, 
+Artificial Intelligence Developer, OpenAI, LangChain, Python AI Developer, TypeScript Developer, 
+Vector Databases, Prompt Engineering, Fine-tuning LLMs, AI Automation, Autonomous Agents, 
+AI Systems Pakistan, GitHub AI Portfolio, Machine Learning Projects, Deep Learning Engineer,
+Natural Language Processing, Chatbot Development, AI Integration, Model Context Protocol, MCP,
+Google Workspace AI, Education Technology, EdTech AI Solutions, Smart Classroom Technology
+-->
+
+<!-- 
+🎯 Profile SEO Meta Description:
+Muhammad Anas - AI Engineer specializing in Agentic AI Systems, RAG (Retrieval Augmented Generation), and LLM Engineering. 
+Expert in building autonomous AI agents, intelligent chatbots, and AI-powered applications using Python, TypeScript, OpenAI, 
+LangChain, and LlamaIndex. Based in Pakistan, creating innovative AI solutions for education, productivity, and automation.
+Portfolio includes Classroom Suite MCP, RAG chatbots, email agents, and enterprise AI integrations.
+-->
+
+<!-- 
+👤 Professional Title Variations for SEO:
+- AI Engineer | Machine Learning Specialist
+- Agentic AI Systems Developer
+- LLM Engineering Expert
+- RAG Systems Architect
+- Autonomous AI Agent Developer
+- Python AI/ML Engineer
+- Full Stack AI Developer
+- AI Automation Specialist
+-->
+
 <div align="center">
 
 <!-- Animated Header with 3D Effect -->
@@ -205,5 +234,155 @@ mindmap
 ### 💡 *"The future belongs to those who build intelligent systems that empower humanity."*
 
 <img src="https://komarev.com/ghpvc/?username=anasdevai&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🏷️ Topics & Technologies
+
+### Core Expertise
+`AI Engineering` `Machine Learning` `Deep Learning` `Agentic AI` `Autonomous Agents` `Multi-Agent Systems` 
+`RAG Systems` `Retrieval Augmented Generation` `LLM Engineering` `Large Language Models` `GPT` `Claude` 
+`Prompt Engineering` `Fine-tuning` `Model Optimization` `AI Automation` `Intelligent Agents`
+
+### Programming & Frameworks  
+`Python` `TypeScript` `JavaScript` `Next.js` `React` `Node.js` `FastAPI` `Streamlit`
+`OpenAI API` `LangChain` `LlamaIndex` `Hugging Face` `TensorFlow` `PyTorch`
+
+### AI/ML Technologies
+`Vector Databases` `Pinecone` `Chroma` `FAISS` `Embeddings` `Semantic Search`
+`Natural Language Processing` `NLP` `Text Generation` `Chatbot Development` 
+`Model Context Protocol` `MCP` `Function Calling` `Tool Use` `Agent Frameworks`
+
+### Application Domains
+`Education Technology` `EdTech` `Smart Classroom` `Google Workspace Integration`
+`Email Automation` `Customer Service AI` `Report Analysis` `Document Q&A`
+`AI Assistants` `Virtual Agents` `Conversational AI` `Voice AI`
+
+### Cloud & DevOps
+`Git` `GitHub` `CI/CD` `Docker` `Vercel` `Cloud Deployment` `API Development`
+`PostgreSQL` `MongoDB` `Database Design` `RESTful APIs` `GraphQL`
+
+---
+
+## 📚 Featured Projects & Repositories
+
+### 🤖 Agentic AI Systems
+- **Classroom Suite MCP**: AI-powered Google Workspace integration for education
+- **Class Mate AI**: Intelligent study companion with personalized learning paths
+- **Email Agent**: Autonomous email management and smart reply system
+
+### 📈 RAG & LLM Applications  
+- **Report Analyzer**: RAG chatbot for medical report analysis and dietary suggestions
+- **Resume Chatbot**: Document Q&A system for resume information extraction
+- **Customer Service AI**: Automated customer support with intelligent responses
+
+### 🛠️ Tools & Utilities
+- **LLM Engineering Course**: 8-week comprehensive LLM engineering learning path
+- **Calculus Bot**: AI-powered mathematics problem solver
+- **Text-to-Audio Converter**: Speech synthesis application
+
+---
+
+## 🌐 Professional Presence
+
+<div align="center">
+
+### Find Me Online
+
+👨‍💻 **GitHub**: [@anasdevai](https://github.com/anasdevai) - AI Engineering Portfolio
+
+💔 **LinkedIn**: [Muhammad Anas](https://www.linkedin.com/in/muhammad-anas-ai/) - Professional Network
+
+📍 **Location**: Pakistan 🇵🇰 | **Timezone**: PKT (UTC+5)
+
+🎯 **Focus**: Building Intelligent Systems | Agentic AI | RAG | LLM Engineering
+
+</div>
+
+---
+
+## 📌 SEO Keywords & Search Terms
+
+<!-- Hidden SEO content for search engines -->
+<details>
+<summary>🔍 Click to expand search keywords</summary>
+
+### Professional Keywords
+- AI Engineer Pakistan
+- Machine Learning Engineer
+- Agentic AI Developer
+- RAG Systems Expert  
+- LLM Engineering Specialist
+- Python AI Developer
+- TypeScript Full Stack Developer
+- OpenAI Integration Expert
+- LangChain Developer
+- Autonomous Agent Developer
+
+### Technology Stack
+- OpenAI GPT Integration
+- Claude AI Development
+- LangChain Applications
+- LlamaIndex Projects
+- Vector Database Solutions
+- Semantic Search Implementation
+- Prompt Engineering Services
+- Model Fine-tuning
+- AI Chatbot Development
+- Intelligent Agent Systems
+
+### Project Categories
+- Education Technology (EdTech)
+- AI Automation Tools
+- Enterprise AI Solutions
+- Smart Classroom Technology
+- Google Workspace AI
+- Email Automation Systems
+- Customer Service Automation
+- Document Analysis AI
+- Conversational AI Platforms
+- Multi-Agent Architectures
+
+### Skills & Capabilities
+- Full Stack AI Development
+- Backend API Development
+- Frontend UI/UX Design
+- Database Architecture
+- Cloud Deployment
+- CI/CD Pipelines
+- REST API Design
+- Real-time Systems
+- Scalable Architecture
+- Performance Optimization
+
+</details>
+
+---
+
+<div align="center">
+
+### 💡 Innovation in AI | Building the Future of Intelligent Systems
+
+**Muhammad Anas** | AI Engineer | Agentic AI Specialist | RAG Expert | LLM Engineer
+
+*Transforming ideas into intelligent, autonomous AI solutions*
+
+[![GitHub followers](https://img.shields.io/github/followers/anasdevai?label=Follow&style=social)](https://github.com/anasdevai)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/muhammad-anas-ai/)
+
+**🌟 Open for Collaboration | AI Projects | Research Opportunities | Freelance Work**
+
+</div>
+
+<!-- 
+Additional SEO Tags for search engines:
+#AIEngineer #MachineLearning #AgenticAI #RAG #LLM #Python #TypeScript 
+#OpenAI #LangChain #LlamaIndex #ArtificialIntelligence #DeepLearning
+#NLP #Chatbots #VectorDatabases #PromptEngineering #FineTuning
+#EdTech #AIAutomation #IntelligentAgents #AutonomousSystems #Pakistan
+#GitHubProfile #AIPortfolio #TechInnovation #FutureOfAI
+-->
 
 </div>
